@@ -1,33 +1,198 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>myfirstwebsite</title>
+    <title>wingsandtales</title>
     <link href="https://LilaLeena.github.io/LilaLeena/feed.xml" rel="self" />
     <link href="https://LilaLeena.github.io/LilaLeena" />
-    <updated>2020-05-08T18:44:19+02:00</updated>
+    <updated>2020-05-15T20:06:03+02:00</updated>
     <author>
-        <name>Helena</name>
+        <name>Helena Laudel</name>
     </author>
     <id>https://LilaLeena.github.io/LilaLeena</id>
 
     <entry>
-        <title>Home</title>
+        <title>Impressum</title>
         <author>
-            <name>Helena</name>
+            <name>Helena Laudel</name>
         </author>
-        <link href="https://LilaLeena.github.io/LilaLeena/home.html"/>
-        <id>https://LilaLeena.github.io/LilaLeena/home.html</id>
+        <link href="https://LilaLeena.github.io/LilaLeena/impressum.html"/>
+        <id>https://LilaLeena.github.io/LilaLeena/impressum.html</id>
 
-        <updated>2020-05-08T18:28:30+02:00</updated>
+        <updated>2020-05-15T19:41:50+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://LilaLeena.github.io/LilaLeena/media/posts/1/wingstales.jpg" alt="" />
-                    This my new virtual home.
+                     "Wings &amp; Tales" Vertreten durch: Helena Laudel Schönfelder Str. 17 01099 Dresden Kontakt: E-Mail: wingsandtales@posteo.de Haftungsausschluss: Haftung für Links Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://LilaLeena.github.io/LilaLeena/media/posts/1/wingstales.jpg" alt="" />
-                This my new virtual home.
+                <h1 id="mcetoc_1e8cmn4f90"> </h1>
+<p>"Wings &amp; Tales"</p>
+<p><strong>Vertreten durch: </strong><br>Helena Laudel<br>Schönfelder Str. 17<br>01099 Dresden</p>
+<p><strong>Kontakt:</strong> <br> E-Mail: <a href="mailto:wingsandtales@posteo.de">wingsandtales@posteo.de</a> </p>
+<p> </p>
+<p><strong>Haftungsausschluss:</strong><br><br><strong>Haftung für Links</strong><br><br> Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.<br><br><strong>Urheberrecht</strong><br><br> Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.<br><br><strong>Datenschutz</strong><br><br> Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben. <br> Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. <br> Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Kontakt</title>
+        <author>
+            <name>Helena Laudel</name>
+        </author>
+        <link href="https://LilaLeena.github.io/LilaLeena/kontakt.html"/>
+        <id>https://LilaLeena.github.io/LilaLeena/kontakt.html</id>
+
+        <updated>2020-05-15T19:59:42+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Facebook: https://www.facebook.com/wingstales Mail: wingsandtales@posteo.de 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Facebook: <a href="https://www.facebook.com/wingstales">https://www.facebook.com/wingstales</a> </p>
+<p>Mail: <a href="mailto:wingsandtales@posteo.de">wingsandtales@posteo.de</a></p>
+<p><img class="post__image" src="https://LilaLeena.github.io/LilaLeena/media/posts/5/Sticker_2.png" alt="" width="326" height="326"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Wings&amp;Tales</title>
+        <author>
+            <name>Helena Laudel</name>
+        </author>
+        <link href="https://LilaLeena.github.io/LilaLeena/wingsandtales.html"/>
+        <id>https://LilaLeena.github.io/LilaLeena/wingsandtales.html</id>
+
+        <updated>2020-05-15T19:44:44+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Wings &amp; Tales machen tanzbaren Folk mit Geige, Flöte, Rhythmusgitarre, Kontrabass, Bouzouki und vierstimmigem Gesang. Fünf junge Menschen haben sich zusammengefunden, um mit ihrer Musik gemeinsam Neues zu finden und Altes wiederzubeleben. Neben den Einflüssen zahlreicher Jamsessions auf diversen Balfolkfestivals, vereinen sich in ihrer Musik&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Wings &amp; Tales machen tanzbaren Folk mit Geige, Flöte, Rhythmusgitarre, Kontrabass, Bouzouki und vierstimmigem Gesang.</p>
+<p><img class="post__image post__image--center" src="https://LilaLeena.github.io/LilaLeena/media/posts/4/DSCF4054.JPG" width="6000" height="83916"></p>
+<p>Fünf junge Menschen haben sich zusammengefunden, um mit ihrer Musik gemeinsam Neues zu finden und Altes wiederzubeleben. Neben den Einflüssen zahlreicher Jamsessions auf diversen Balfolkfestivals, vereinen sich in ihrer Musik irische und skandinavische Tunes mit englischen Volksliedern und jazzigem Bass.</p>
+<p> <img class="post__image" src="https://LilaLeena.github.io/LilaLeena/media/posts/4/Sticker_2.png" alt="" width="330" height="330"></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Live</title>
+        <author>
+            <name>Helena Laudel</name>
+        </author>
+        <link href="https://LilaLeena.github.io/LilaLeena/live.html"/>
+        <id>https://LilaLeena.github.io/LilaLeena/live.html</id>
+
+        <updated>2020-05-15T19:18:41+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Kommende Auftritte: Vergangene Auftritte13. März 2020, Tanzhaus*Folk Leipzig, Kulturnhalle20. September 2019, TANZhaus WABE Berlin25. - 29. Mai 2019, 32. Leipziger Tanzhausfest Tanzhaus*Folk e.V.13. April 2019, Balfolk Ratisbonne1. September 2018, "Folklorum" Kulturinsel Einsiedel8. Juni 2018, Berlin "Kühlspot"
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Kommende Auftritte:</p>
+<ul>
+<li>18.-21. Juni 2020, Mattstedt Folk Weekend</li>
+</ul>
+<p> Vergangene Auftritte</p>
+<ul>
+<li><span style="text-decoration: line-through;">13. März 2020, Tanzhaus*Folk Leipzig, Kulturnhalle</span></li>
+<li><span class="post-meta">20. September 2019, TANZhaus WABE Berlin</span></li>
+<li>25. - 29. Mai 2019, 32. Leipziger Tanzhausfest Tanzhaus*Folk e.V.</li>
+<li>13. April 2019, Balfolk Ratisbonne</li>
+<li>1. September 2018, "Folklorum" Kulturinsel Einsiedel</li>
+<li>8. Juni 2018, Berlin "Kühlspot"</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Die Musik</title>
+        <author>
+            <name>Helena Laudel</name>
+        </author>
+        <link href="https://LilaLeena.github.io/LilaLeena/die-musik.html"/>
+        <id>https://LilaLeena.github.io/LilaLeena/die-musik.html</id>
+
+        <updated>2020-05-15T19:50:38+02:00</updated>
+            <summary>
+                <![CDATA[
+                     Neben den Einflüssen zahlreicher Jamsessions auf diversen Balfolkfestivals, vereinen sich in unserer Musik irische und skandinavische Tunes mit englischen Volksliedern und jazzigem Bass. Denn Martin sammelte seine Bühnenerfahrung als Bodhran-Spieler der Irish-Folkband „The Mockingbird Men“. Dieses Rhythmusgefühl und seine Erlebnisse zahlreicher Reisen bringt er&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><iframe width="560" height="314" src="https://www.youtube.com/embed/iJFH3qcV4w8" allowfullscreen="allowfullscreen" ></iframe></p>
+<p>Neben den Einflüssen zahlreicher Jamsessions auf diversen Balfolkfestivals, vereinen sich in unserer Musik irische und skandinavische Tunes mit englischen Volksliedern und jazzigem Bass. Denn Martin sammelte seine Bühnenerfahrung als Bodhran-Spieler der Irish-Folkband „The Mockingbird Men“. Dieses Rhythmusgefühl und seine Erlebnisse zahlreicher Reisen bringt er mit der viersaitigen Rhythmusgitarre in die Band ein. Der zweite Multiinstrumentalist der Band ist Theo, der Engländer versorgt uns mit stilechtem British.</p>
+<p>Dazu spielt Niklas am Kontrabass, der sein Improvisationstalent auf zahlreichen Jazzsessions, sowie mit der Band „Stimmt So“ erwarb. Und Fili an der Fiddle ist eine lang erprobte Straßenmusikerin, sie versteht sich darauf jede gute Gelegenheit für ein Solo zu nutzen. Dazu stoßen dann noch Helenas wohlsortierte klassische Flötentöne, die teilweise an Jethro Tull und Flook erinnern mögen und es ergibt sich ein Gesamtwerk, das tanzbarer und abwechslungsreicher kaum sein könnte.</p>
+<p>Auch um mehrstimmigen Satzgesang sind wir nicht verlegen und für den richtigen Beat gibt es eine Stompbox. Der Mix aus selbstgeschriebenen und wiederausgegrabenen Geschichten und Melodien verleiht Flügel. Lasst uns stampfen und hopsen, springen und schwelgen, drehen und zappeln und ab und zu ganz verliebt auf Wolken schweben.</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Die Band</title>
+        <author>
+            <name>Helena Laudel</name>
+        </author>
+        <link href="https://LilaLeena.github.io/LilaLeena/die-band.html"/>
+        <id>https://LilaLeena.github.io/LilaLeena/die-band.html</id>
+
+        <updated>2020-05-15T19:57:51+02:00</updated>
+            <summary>
+                <![CDATA[
+                     Die Band entstand im Kern während einer Jamsession eines berühmt-berüchtigten Studentenclubs in Dresden, auf der einige Menschen die Liebe zur tanzbaren Folkmusik teilten. Schnell war klar, dass auch ein Kontrabass dazu muss. Dieser wurde schnellstens aus Berlin zur Session eingeladen - und siehe da,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><img class="post__image" src="https://LilaLeena.github.io/LilaLeena/media/posts/1/Bearbeitung_2_teil.jpg" alt="" width="2480" height="759"></p>
+<p>Die Band entstand im Kern während einer Jamsession eines berühmt-berüchtigten Studentenclubs in Dresden, auf der einige Menschen die Liebe zur tanzbaren Folkmusik teilten. Schnell war klar, dass auch ein Kontrabass dazu muss. Dieser wurde schnellstens aus Berlin zur Session eingeladen - und siehe da, die Band war geboren. Ein paar Wochen später erschien ihnen dann noch eine wundervolle Geigerin, die innerhalb einer Woche das gesamte Repertoire der Band in sich aufsog. Und damit war Wings &amp; Tales endlich komplett.</p>
+<table style="width: 665px;">
+<tbody>
+<tr>
+<td style="width: 241px;"><img class="post__image" src="https://LilaLeena.github.io/LilaLeena/media/posts/1/Fili.JPG" width="125" height="224"></td>
+<td style="width: 423px;">
+<h2 id="mcetoc_1e8cm164b0">Fili</h2>
+<p>Geige, Vocals und Obertongesang</p>
+</td>
+</tr>
+<tr>
+<td style="width: 241px;"><img class="post__image" src="https://LilaLeena.github.io/LilaLeena/media/posts/1/Martin.JPG" width="125" height="156"></td>
+<td style="width: 423px;">
+<h2 id="mcetoc_1e8cm35i51">Martin</h2>
+<p>Rhythmusgitarre, Vocals und Rahmentrommel</p>
+</td>
+</tr>
+<tr>
+<td style="width: 241px;"><img class="post__image" src="https://LilaLeena.github.io/LilaLeena/media/posts/1/Theo.JPG" width="125" height="188"></td>
+<td style="width: 423px;">
+<h2 id="mcetoc_1e8cm6ats2">Theo</h2>
+<p>Bouzouki und Vocals</p>
+</td>
+</tr>
+<tr>
+<td style="width: 241px;"><img class="post__image" src="https://LilaLeena.github.io/LilaLeena/media/posts/1/Niklas.JPG" alt="" width="125" height="252"></td>
+<td style="width: 423px;">
+<h2 id="mcetoc_1e8cm7jkq3">Niklas</h2>
+<p>Kontrabass und Vocals</p>
+</td>
+</tr>
+<tr>
+<td style="width: 241px;"><img class="post__image" src="https://LilaLeena.github.io/LilaLeena/media/posts/1/Helena.JPG" alt="" width="125" height="187"></td>
+<td style="width: 423px;">
+<h2 id="mcetoc_1e8cm9bmh4">Helena</h2>
+<p>Flöte und Vocals</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
             ]]>
         </content>
     </entry>
