@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>wingsandtales</title>
     <link href="https://www.wingsandtales.de/feed.xml" rel="self" />
     <link href="https://www.wingsandtales.de" />
-    <updated>2020-07-05T18:52:01+02:00</updated>
+    <updated>2023-01-30T22:02:42+01:00</updated>
     <author>
         <name>Helena Laudel</name>
     </author>
@@ -20,14 +20,14 @@
         <updated>2020-05-16T18:23:35+02:00</updated>
             <summary>
                 <![CDATA[
-                     Wings &amp; Tales machen tanzbaren Folk mit Geige, Flöte, Rhythmusgitarre, Kontrabass, Bouzouki und vierstimmigem Gesang. Fünf junge Menschen haben&hellip;
+                    Wings &amp; Tales machen tanzbaren Folk mit Geige, Flöte, Rhythmusgitarre, Kontrabass, Bouzouki und vierstimmigem Gesang. Fünf junge Menschen haben sich&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="align-center"><img class="post__image post__image--center" src="https://www.wingsandtales.de/media/posts/4/Sticker_2.png" width="320" height="320"></p>
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://www.wingsandtales.de/media/posts/4/Sticker_2.png" width="320" height="320" sizes="(max-width: 768px) 100vw, 300px" srcset="https://www.wingsandtales.de/media/posts/4/responsive/Sticker_2-xs.png 300w ,https://www.wingsandtales.de/media/posts/4/responsive/Sticker_2-sm.png 480w ,https://www.wingsandtales.de/media/posts/4/responsive/Sticker_2-md.png 768w ,https://www.wingsandtales.de/media/posts/4/responsive/Sticker_2-lg.png 1024w ,https://www.wingsandtales.de/media/posts/4/responsive/Sticker_2-xl.png 1360w"></figure>
 <p class="align-center">Wings &amp; Tales machen tanzbaren Folk mit Geige, Flöte, Rhythmusgitarre, Kontrabass, Bouzouki und vierstimmigem Gesang.</p>
-<p><img class="post__image post__image--center" src="https://www.wingsandtales.de/media/posts/4/Bandfoto_1_bearbeitet.JPG" width="725" height="483"></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.wingsandtales.de/media/posts/4/Bandfoto_1_bearbeitet.JPG" width="725" height="483" sizes="(max-width: 768px) 100vw, 300px" srcset="https://www.wingsandtales.de/media/posts/4/responsive/Bandfoto_1_bearbeitet-xs.JPG 300w ,https://www.wingsandtales.de/media/posts/4/responsive/Bandfoto_1_bearbeitet-sm.JPG 480w ,https://www.wingsandtales.de/media/posts/4/responsive/Bandfoto_1_bearbeitet-md.JPG 768w ,https://www.wingsandtales.de/media/posts/4/responsive/Bandfoto_1_bearbeitet-lg.JPG 1024w ,https://www.wingsandtales.de/media/posts/4/responsive/Bandfoto_1_bearbeitet-xl.JPG 1360w"></figure>
 <p class="align-center">Fünf junge Menschen haben sich zusammengefunden, um mit ihrer Musik gemeinsam Neues zu finden und Altes wiederzubeleben. Neben den Einflüssen zahlreicher Jamsessions auf diversen Balfolkfestivals, vereinen sich in ihrer Musik irische und skandinavische Tunes mit englischen Volksliedern und jazzigem Bass.</p>
 <p> </p>
             ]]>
@@ -41,21 +41,27 @@
         <link href="https://www.wingsandtales.de/live.html"/>
         <id>https://www.wingsandtales.de/live.html</id>
 
-        <updated>2020-06-23T21:21:35+02:00</updated>
+        <updated>2023-01-30T21:58:22+01:00</updated>
             <summary>
                 <![CDATA[
-                    Kommende Auftritte: Auswahl vergangener Auftritte: 
+                    Kommende Auftritte: Auswahl vergangener Auftritte: 16. Dezember 2022, WABE Berlin 7.-9. Oktober 2022, Folkfest Hohnstein 3. September 2022, Folklorum, Einsiedel&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Kommende Auftritte:</p>
 <ul>
-<li>11.-13. Oktober 2020, Folkfest Hohnstein</li>
-<li>17.-20. Juni 2021, Mattstedt Folk Weekend</li>
+<li>19. Februar 2023, Folktanz Göttingen</li>
 </ul>
 <p> Auswahl vergangener Auftritte:</p>
 <ul>
+<li>16. Dezember 2022, WABE Berlin</li>
+<li>7.-9. Oktober 2022, Folkfest Hohnstein</li>
+<li>3. September 2022, Folklorum, Einsiedel</li>
+<li>07.-10. Juli 2022, Straßenmusik @ Rudolstadt Festival</li>
+<li>24.-25. Juni 2022, Mattstedt Folk Weekend</li>
+<li>09. Oktober 2021, Folktanz Dresden</li>
+<li>14. Oktober 2020, Folktanz Dresden</li>
 <li>31. Dezember 2019, Folkmarathon Ghent</li>
 <li>12. Oktober 2019, Folkfest Hohnstein</li>
 <li><span class="post-meta">20. September 2019, TANZhaus WABE Berlin</span></li>
@@ -65,7 +71,7 @@
 <li>1. September 2018, "Folklorum" Kulturinsel Einsiedel</li>
 <li>8. Juni 2018, Berlin "Kühlspot"</li>
 </ul>
-<p><img class="post__image post__image--center" src="https://www.wingsandtales.de/media/posts/3/Thumbnail_3.jpg" alt="" width="200" height="200"></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.wingsandtales.de/media/posts/3/Thumbnail_3.jpg" alt="" width="200" height="200" sizes="(max-width: 768px) 100vw, 300px" srcset="https://www.wingsandtales.de/media/posts/3/responsive/Thumbnail_3-xs.jpg 300w ,https://www.wingsandtales.de/media/posts/3/responsive/Thumbnail_3-sm.jpg 480w ,https://www.wingsandtales.de/media/posts/3/responsive/Thumbnail_3-md.jpg 768w ,https://www.wingsandtales.de/media/posts/3/responsive/Thumbnail_3-lg.jpg 1024w ,https://www.wingsandtales.de/media/posts/3/responsive/Thumbnail_3-xl.jpg 1360w"></figure>
             ]]>
         </content>
     </entry>
@@ -77,19 +83,19 @@
         <link href="https://www.wingsandtales.de/die-musik.html"/>
         <id>https://www.wingsandtales.de/die-musik.html</id>
 
-        <updated>2020-05-16T18:29:24+02:00</updated>
+        <updated>2023-01-30T22:02:42+01:00</updated>
             <summary>
                 <![CDATA[
-                     Neben den Einflüssen zahlreicher Jamsessions auf diversen Balfolkfestivals, vereinen sich in unserer Musik irische und skandinavische Tunes mit englischen&hellip;
+                    Neben den Einflüssen zahlreicher Jamsessions auf diversen Balfolkfestivals, vereinen sich in unserer Musik irische und skandinavische Tunes mit englischen Volksliedern&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><iframe width="560" height="314" src="https://www.youtube.com/embed/iJFH3qcV4w8" allowfullscreen="allowfullscreen" ></iframe></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/Fhtkny-dDk0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
 <p>Neben den Einflüssen zahlreicher Jamsessions auf diversen Balfolkfestivals, vereinen sich in unserer Musik irische und skandinavische Tunes mit englischen Volksliedern und jazzigem Bass. Denn Martin sammelte seine Bühnenerfahrung als Bodhran-Spieler der Irish-Folkband „The Mockingbird Men“. Dieses Rhythmusgefühl und seine Erlebnisse zahlreicher Reisen bringt er mit der viersaitigen Rhythmusgitarre in die Band ein. Der zweite Multiinstrumentalist der Band ist Theo, der Engländer versorgt uns mit stilechtem British.</p>
 <p>Dazu spielt Niklas am Kontrabass, der sein Improvisationstalent auf zahlreichen Jazzsessions, sowie mit der Band „Stimmt So“ erwarb. Und Fili an der Fiddle ist eine lang erprobte Straßenmusikerin, sie versteht sich darauf jede gute Gelegenheit für ein Solo zu nutzen. Dazu stoßen dann noch Helenas wohlsortierte klassische Flötentöne, die teilweise an Jethro Tull und Flook erinnern mögen und es ergibt sich ein Gesamtwerk, das tanzbarer und abwechslungsreicher kaum sein könnte.</p>
 <p>Auch um mehrstimmigen Satzgesang sind wir nicht verlegen und für den richtigen Beat gibt es eine Stompbox. Der Mix aus selbstgeschriebenen und wiederausgegrabenen Geschichten und Melodien verleiht Flügel. Lasst uns stampfen und hopsen, springen und schwelgen, drehen und zappeln und ab und zu ganz verliebt auf Wolken schweben.</p>
-<p><img class="post__image post__image--center" src="https://www.wingsandtales.de/media/posts/2/Thumbnail_2.jpg" alt="" width="200" height="200"></p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.wingsandtales.de/media/posts/2/Thumbnail_2.jpg" alt="" width="200" height="200" sizes="(max-width: 768px) 100vw, 300px" srcset="https://www.wingsandtales.de/media/posts/2/responsive/Thumbnail_2-xs.jpg 300w ,https://www.wingsandtales.de/media/posts/2/responsive/Thumbnail_2-sm.jpg 480w ,https://www.wingsandtales.de/media/posts/2/responsive/Thumbnail_2-md.jpg 768w ,https://www.wingsandtales.de/media/posts/2/responsive/Thumbnail_2-lg.jpg 1024w ,https://www.wingsandtales.de/media/posts/2/responsive/Thumbnail_2-xl.jpg 1360w"></figure>
 <p> </p>
             ]]>
         </content>
@@ -105,53 +111,53 @@
         <updated>2020-05-16T18:28:14+02:00</updated>
             <summary>
                 <![CDATA[
-                     Die Band entstand im Kern während einer Jamsession eines berühmt-berüchtigten Studentenclubs in Dresden, auf der einige Menschen die Liebe&hellip;
+                    Die Band entstand im Kern während einer Jamsession eines berühmt-berüchtigten Studentenclubs in Dresden, auf der einige Menschen die Liebe zur&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p><img class="post__image" src="https://www.wingsandtales.de/media/posts/1/Bearbeitung_2_teil.jpg" alt="" width="2480" height="759"></p>
+                <figure class="post__image"><img loading="lazy"  src="https://www.wingsandtales.de/media/posts/1/Bearbeitung_2_teil.jpg" alt="" width="2480" height="759" sizes="(max-width: 768px) 100vw, 300px" srcset="https://www.wingsandtales.de/media/posts/1/responsive/Bearbeitung_2_teil-xs.jpg 300w ,https://www.wingsandtales.de/media/posts/1/responsive/Bearbeitung_2_teil-sm.jpg 480w ,https://www.wingsandtales.de/media/posts/1/responsive/Bearbeitung_2_teil-md.jpg 768w ,https://www.wingsandtales.de/media/posts/1/responsive/Bearbeitung_2_teil-lg.jpg 1024w ,https://www.wingsandtales.de/media/posts/1/responsive/Bearbeitung_2_teil-xl.jpg 1360w"></figure>
 <p>Die Band entstand im Kern während einer Jamsession eines berühmt-berüchtigten Studentenclubs in Dresden, auf der einige Menschen die Liebe zur tanzbaren Folkmusik teilten. Schnell war klar, dass auch ein Kontrabass dazu muss. Dieser wurde schnellstens aus Berlin zur Session eingeladen - und siehe da, die Band war geboren. Ein paar Wochen später erschien ihnen dann noch eine wundervolle Geigerin, die innerhalb einer Woche das gesamte Repertoire der Band in sich aufsog. Und damit war Wings &amp; Tales endlich komplett.</p>
 <table style="width: 665px;">
 <tbody>
 <tr>
-<td style="width: 241px;"><img class="post__image" src="https://www.wingsandtales.de/media/posts/1/Fili.JPG" width="125" height="224"></td>
+<td style="width: 241px;"><figure class="post__image"><img loading="lazy"  src="https://www.wingsandtales.de/media/posts/1/Fili.JPG" width="125" height="224" sizes="(max-width: 768px) 100vw, 300px" srcset="https://www.wingsandtales.de/media/posts/1/responsive/Fili-xs.JPG 300w ,https://www.wingsandtales.de/media/posts/1/responsive/Fili-sm.JPG 480w ,https://www.wingsandtales.de/media/posts/1/responsive/Fili-md.JPG 768w ,https://www.wingsandtales.de/media/posts/1/responsive/Fili-lg.JPG 1024w ,https://www.wingsandtales.de/media/posts/1/responsive/Fili-xl.JPG 1360w"></figure></td>
 <td style="width: 423px;">
-<h2 id="mcetoc_1e8cm164b0">Fili</h2>
+<h2>Fili</h2>
 <p>Geige, Vocals und Obertongesang</p>
 </td>
 </tr>
 <tr>
-<td style="width: 241px;"><img class="post__image" src="https://www.wingsandtales.de/media/posts/1/Martin.JPG" width="125" height="156"></td>
+<td style="width: 241px;"><figure class="post__image"><img loading="lazy"  src="https://www.wingsandtales.de/media/posts/1/Martin.JPG" width="125" height="156" sizes="(max-width: 768px) 100vw, 300px" srcset="https://www.wingsandtales.de/media/posts/1/responsive/Martin-xs.JPG 300w ,https://www.wingsandtales.de/media/posts/1/responsive/Martin-sm.JPG 480w ,https://www.wingsandtales.de/media/posts/1/responsive/Martin-md.JPG 768w ,https://www.wingsandtales.de/media/posts/1/responsive/Martin-lg.JPG 1024w ,https://www.wingsandtales.de/media/posts/1/responsive/Martin-xl.JPG 1360w"></figure></td>
 <td style="width: 423px;">
-<h2 id="mcetoc_1e8cm35i51">Martin</h2>
+<h2>Martin</h2>
 <p>Rhythmusgitarre, Vocals und Rahmentrommel</p>
 </td>
 </tr>
 <tr>
-<td style="width: 241px;"><img class="post__image" src="https://www.wingsandtales.de/media/posts/1/Theo.JPG" width="125" height="188"></td>
+<td style="width: 241px;"><figure class="post__image"><img loading="lazy"  src="https://www.wingsandtales.de/media/posts/1/Theo.JPG" width="125" height="188" sizes="(max-width: 768px) 100vw, 300px" srcset="https://www.wingsandtales.de/media/posts/1/responsive/Theo-xs.JPG 300w ,https://www.wingsandtales.de/media/posts/1/responsive/Theo-sm.JPG 480w ,https://www.wingsandtales.de/media/posts/1/responsive/Theo-md.JPG 768w ,https://www.wingsandtales.de/media/posts/1/responsive/Theo-lg.JPG 1024w ,https://www.wingsandtales.de/media/posts/1/responsive/Theo-xl.JPG 1360w"></figure></td>
 <td style="width: 423px;">
-<h2 id="mcetoc_1e8cm6ats2">Theo</h2>
+<h2>Theo</h2>
 <p>Bouzouki und Vocals</p>
 </td>
 </tr>
 <tr>
-<td style="width: 241px;"><img class="post__image" src="https://www.wingsandtales.de/media/posts/1/Niklas.JPG" alt="" width="125" height="252"></td>
+<td style="width: 241px;"><figure class="post__image"><img loading="lazy"  src="https://www.wingsandtales.de/media/posts/1/Niklas.JPG" alt="" width="125" height="252" sizes="(max-width: 768px) 100vw, 300px" srcset="https://www.wingsandtales.de/media/posts/1/responsive/Niklas-xs.JPG 300w ,https://www.wingsandtales.de/media/posts/1/responsive/Niklas-sm.JPG 480w ,https://www.wingsandtales.de/media/posts/1/responsive/Niklas-md.JPG 768w ,https://www.wingsandtales.de/media/posts/1/responsive/Niklas-lg.JPG 1024w ,https://www.wingsandtales.de/media/posts/1/responsive/Niklas-xl.JPG 1360w"></figure></td>
 <td style="width: 423px;">
-<h2 id="mcetoc_1e8cm7jkq3">Niklas</h2>
+<h2>Niklas</h2>
 <p>Kontrabass und Vocals</p>
 </td>
 </tr>
 <tr>
-<td style="width: 241px;"><img class="post__image" src="https://www.wingsandtales.de/media/posts/1/Helena.JPG" alt="" width="125" height="187"></td>
+<td style="width: 241px;"><figure class="post__image"><img loading="lazy"  src="https://www.wingsandtales.de/media/posts/1/Helena.JPG" alt="" width="125" height="187" sizes="(max-width: 768px) 100vw, 300px" srcset="https://www.wingsandtales.de/media/posts/1/responsive/Helena-xs.JPG 300w ,https://www.wingsandtales.de/media/posts/1/responsive/Helena-sm.JPG 480w ,https://www.wingsandtales.de/media/posts/1/responsive/Helena-md.JPG 768w ,https://www.wingsandtales.de/media/posts/1/responsive/Helena-lg.JPG 1024w ,https://www.wingsandtales.de/media/posts/1/responsive/Helena-xl.JPG 1360w"></figure></td>
 <td style="width: 423px;">
-<h2 id="mcetoc_1e8cm9bmh4">Helena</h2>
+<h2>Helena</h2>
 <p>Flöte und Vocals</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p> <img class="post__image post__image--center" src="https://www.wingsandtales.de/media/posts/1/Thumbnail_1.jpg" alt="" width="200" height="200"></p>
+<figure class="post__image post__image--center"> <img loading="lazy"  src="https://www.wingsandtales.de/media/posts/1/Thumbnail_1.jpg" alt="" width="200" height="200" sizes="(max-width: 768px) 100vw, 300px" srcset="https://www.wingsandtales.de/media/posts/1/responsive/Thumbnail_1-xs.jpg 300w ,https://www.wingsandtales.de/media/posts/1/responsive/Thumbnail_1-sm.jpg 480w ,https://www.wingsandtales.de/media/posts/1/responsive/Thumbnail_1-md.jpg 768w ,https://www.wingsandtales.de/media/posts/1/responsive/Thumbnail_1-lg.jpg 1024w ,https://www.wingsandtales.de/media/posts/1/responsive/Thumbnail_1-xl.jpg 1360w"></figure>
             ]]>
         </content>
     </entry>
